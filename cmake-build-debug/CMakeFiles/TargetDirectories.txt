@@ -1,0 +1,3 @@
+/Users/chang/Desktop/UCSD/2023Fall/ECE17/DI/discussion-week-2-team-1-main/cmake-build-debug/CMakeFiles/Week2.dir
+/Users/chang/Desktop/UCSD/2023Fall/ECE17/DI/discussion-week-2-team-1-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chang/Desktop/UCSD/2023Fall/ECE17/DI/discussion-week-2-team-1-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
